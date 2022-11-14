@@ -1,6 +1,7 @@
 
 <?php 
 //my work is done
+//my name is faizan my work is done
 echo "Index Array<br>";
 $number = array(1,2,3,4,5);
 $count= count($number);
